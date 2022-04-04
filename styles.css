@@ -1,0 +1,147 @@
+body {
+  background-color: #eee;
+  margin: 0 10%;
+}
+
+.container {
+  border: 1px solid black;
+  width: 100%;
+  padding: 10px;
+  margin: 10px auto;
+  box-shadow: -9px 5px;
+  
+}
+
+.bck-container {
+  border: 1px solid black;
+  width: 32%;
+  border-radius: 20px;
+  margin: auto;
+  text-align: center;
+  display: center;
+  font-family: Verdana;
+  font-size: 16px;
+}
+
+.color {
+  display: inline-block;
+  width: 32%;
+  text-align: center;
+  margin: 20px auto;
+  min-height: 100px;
+
+}
+.lightblue {
+  background-color: #5dacbd;
+  color: #fff;
+  width: 200px;
+  padding: 50px;
+  text-align: center;
+  display: inline-block;
+  border-radius: 20px;
+  display: center;
+  margin: auto;
+  font-family: Verdana;
+  font-size: 16px;
+}
+
+.darkblue {
+  background-color: #24527a;
+  color: #fff;
+  width: 200px;
+  padding: 50px;
+  text-align: center;
+  display: inline-block;
+  border-radius: 20px;
+  display: center;
+  font-family: Verdana;
+  font-size: 16px;
+}
+
+.grey {
+  background-color: #9ba6a5;
+  color: #fff;
+  width: 200px;
+  padding: 50px;
+  text-align: center;
+  display: inline-block;
+  border-radius: 20px;
+  display: center;
+  font-family: Verdana;
+  font-size: 16px;
+}
+
+p {
+  font-size: 16px;
+}
+
+
+h2 {
+  font-family: 'Roboto Mono', monospace;
+  font-style: italic;
+  padding-top: 20px;
+  font-size: 26px;
+}
+
+.heading {
+  text-align: center;
+  font-family: 'Spartan', sans-serif;
+  background-color: #24527a;
+  color: #eee;
+  padding: 20px;
+  font-size: 38px;
+}
+
+.headingex {
+  font-family: 'Spartan', sans-serif;
+  font-size: 38px;
+}
+
+.background {
+  text-align: center;
+}
+.color-hex {
+  background-color: #5dacbd;
+  color: #fff;
+  width: 200px;
+  padding: 50px;
+}
+
+.font-panel {
+  width: 45%;
+  display: inline-block;
+}
+
+.font-label {
+  font-size: 20px;
+  text-decoration: underline;
+  
+}
+
+.regular {
+  font-style: normal;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.spartan {
+  font-family: 'Spartan', sans-serif;
+}
+
+.roboto-mono {
+  font-family: 'Roboto Mono', monospace;
+}
+
+.verdana {
+  font-family: 'Verdana', sans-serif;
+}
+
+li {
+  padding: 5px;
+}
